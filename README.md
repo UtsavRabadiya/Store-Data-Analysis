@@ -102,4 +102,3 @@ To improve Vrinda Store sales:
 
 ---
 
-## Folder Structure (suggested)
